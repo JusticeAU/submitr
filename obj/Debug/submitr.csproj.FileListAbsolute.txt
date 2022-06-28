@@ -1,8 +1,0 @@
-C:\dev\submitr\submitr\bin\Debug\submitr.exe.config
-C:\dev\submitr\submitr\bin\Debug\submitr.exe
-C:\dev\submitr\submitr\bin\Debug\submitr.pdb
-C:\dev\submitr\submitr\obj\Debug\submitr.csproj.AssemblyReference.cache
-C:\dev\submitr\submitr\obj\Debug\submitr.csproj.SuggestedBindingRedirects.cache
-C:\dev\submitr\submitr\obj\Debug\submitr.csproj.CoreCompileInputs.cache
-C:\dev\submitr\submitr\obj\Debug\submitr.exe
-C:\dev\submitr\submitr\obj\Debug\submitr.pdb
